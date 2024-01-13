@@ -10,13 +10,9 @@
 
 ## Description
 
-This repository is a starter template for NodeJS projects using the latest versions of TypeScript, ESBuild, ESLint, Prettier, and Jest. Use it to create NPM packages, CLI applications, and more.
+This repository is a starter template for NodeJS projects using the latest versions of TypeScript, Vite, ESLint, Prettier, and Jest. Use it to create NPM packages/libraries, React/Vue applications or component libraries, and more.
 
-It also optionally uses [Madge](https://github.com/pahen/madge) to visualize connections between classes and files within your project.
-
-Want to use `.env` files in your project? This will configure it automatically, if you want it to.
-
-Want to use a configuration file in your project? This will configure it automatically, too, if you ask it to.
+It optionally uses [Madge](https://github.com/pahen/madge) to visualize connections between classes and files within your project.
 
 ## Template Setup
 
